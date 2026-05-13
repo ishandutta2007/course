@@ -6,20 +6,20 @@
 
 - title: 1. ಟ್ರಾನ್ಸ್ಫಾರ್ಮರ್ ಮಾದರಿಗಳು
   sections:
-  # - local: chapter1/1
-  #   title: Introduction
+  - local: chapter1/1
+    title: ಪರಿಚಯ
   - local: chapter1/2
     title: ನೈಸರ್ಗಿಕ ಭಾಷಾ ಸಂಸ್ಕರಣೆ ಮತ್ತು ದೊಡ್ಡ ಭಾಷಾ ಮಾದರಿ
-  # - local: chapter1/3
-  #   title: Transformers, what can they do?
-  # - local: chapter1/4
-  #   title: How do Transformers work?
-  # - local: chapter1/5
-  #   title: How 🤗 Transformers solve tasks
+  - local: chapter1/3
+    title: ಟ್ರಾನ್ಸ್‌ಫಾರ್ಮರ್‌ಗಳು, ಅವು ಏನು ಮಾಡಬಹುದು?
+  - local: chapter1/4
+    title: ಟ್ರಾನ್ಸ್ಫಾರ್ಮರ್ಗಳು ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತವೆ?
+  - local: chapter1/5
+    title: ಟ್ರಾನ್ಸ್‌ಫಾರ್ಮರ್‌ಗಳು 🤗 ಕಾರ್ಯಗಳನ್ನು ಹೇಗೆ ಪರಿಹರಿಸುತ್ತವೆ
   # - local: chapter1/6
   #   title: Transformer Architectures
-  # - local: chapter1/7
-  #   title: Quick quiz
+  - local: chapter1/7
+    title: ಶ್ರೇಣೀಕರಿಸದ ರಸಪ್ರಶ್ನೆ
   # - local: chapter1/8
   #   title: Inference with LLMs
   - local: chapter1/9
